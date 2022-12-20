@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ferney Cáceresw</h1>
+<h1 align="center">Hi 👋, I'm Ferney Cáceres</h1>
 <h3 align="center">A passionate frontend developer from Colombia working in UE</h3>
 
 - 🔭 I’m currently working on **GFT**
